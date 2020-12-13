@@ -1,5 +1,5 @@
 # Olympic Data Viz Project
 
-## All about Canada and the Winter Olypics
+## About 5 Countries With the Most Womens Medals
 
-text text text text text text text text text text text text text text text text text text
+This website shows the top 5 countries with the most womens medals, the ratio of gold, silver, and bronze medals each country has, and the ratio of mens and womens medal winners for each country. 

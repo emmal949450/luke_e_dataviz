@@ -6,10 +6,19 @@
 
 body {
 	font-family: 16px;
-	background-color: black;
-	color: white;
+	background-color: white;
+	color: black;
 }
 
 .hidden {
 	display: none;
+}
+
+.paragraph {
+	padding: 20px;
+}
+
+.title {
+	padding: 20px;
+	text-align: center;
 }
