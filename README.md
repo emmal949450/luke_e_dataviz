@@ -23,6 +23,18 @@ Pictures Used
 https://www.vogue.com/article/american-women-most-medals-rio-olympics-2016
 
 
+## Screenshots
+Screenshots of Website
+
+![](images/web1.png)
+![](images/web2.png)
+![](images/web3.png)
+![](images/web4.png)
+![](images/web5.png)
+![](images/web6.png)
+
+
+
 ## MIT Licence
 MIT Licence
 
