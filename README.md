@@ -17,6 +17,12 @@ How to use
 After installing Sublime download all files and  open in browser
 
 
+## Credits
+Pictures Used
+
+https://www.vogue.com/article/american-women-most-medals-rio-olympics-2016
+
+
 ## MIT Licence
 MIT Licence
 
